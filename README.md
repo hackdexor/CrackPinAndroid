@@ -12,7 +12,7 @@ Simple Script Run On PS
  | |_|__|_| |
  | |_|__|_| |
  \__________/
-
+ 
  Coded : Greenhatx
  Git : github.com/hackdexor
  Yt : youtube.com/greenhatx
